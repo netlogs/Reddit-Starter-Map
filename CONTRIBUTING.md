@@ -15,8 +15,8 @@ community respect matter more than the size of the dataset.
 
 1. Link to the original source.
 2. Record the date you checked it.
-3. Respect the upstream source's reuse conditions.
-4. Do not copy link-only lists into this repository.
+3. Attribute upstream material clearly.
+4. Prefer reorganized summaries over verbatim dumps.
 5. Do not publish hidden karma or account-age thresholds.
 6. Prefer official rules, moderator statements, and first-party wiki pages.
 
@@ -42,5 +42,4 @@ Do not submit:
 - Spam instructions.
 - Automated engagement or auto-commenting.
 - Advice for bypassing moderation filters.
-- Copied subreddit lists that the original maintainers asked people to link.
-
+- Unattributed copied lists or stale snapshots without review dates.

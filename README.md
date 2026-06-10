@@ -18,12 +18,12 @@ The first resource in the map is the
 [r/NewToReddit new-user friendly subreddits list](https://www.reddit.com/r/NewToReddit/wiki/index/newusersubs/).
 
 It is maintained by the r/NewToReddit moderators and points newcomers toward
-communities with low or no participation restrictions. The upstream maintainers
-ask people to share the link instead of copying the list, including partial
-copies. This repository follows that request.
+communities with low or no participation restrictions. This repository
+reorganizes that public source into a more readable topic map and keeps the
+original source clearly attributed.
 
-Read our [resource note](./docs/sources/new-user-friendly-subreddits.md) for a
-structured overview and practical usage guidance.
+Read our [organized version](./docs/sources/new-user-friendly-subreddits.md) for
+a topic map, new-user notes, and safer first-action guidance.
 
 ## Principles
 
@@ -63,4 +63,3 @@ guidelines.
 ## Contributing
 
 Contributions are welcome. Start with [CONTRIBUTING.md](./CONTRIBUTING.md).
-
