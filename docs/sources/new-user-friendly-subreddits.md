@@ -1,8 +1,8 @@
 # New-User Friendly Subreddits
 
-This page reorganizes the r/NewToReddit new-user friendly subreddit list into a
-reader-friendly map. It is meant to help new Reddit users choose where to start,
-what to watch for, and whether commenting is a safer first action than posting.
+This page reorganizes a new-user friendly subreddit list into a reader-friendly
+map. It is meant to help new Reddit users choose where to start, what to watch
+for, and whether commenting is a safer first action than posting.
 
 ## Quick Read
 

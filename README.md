@@ -1,6 +1,27 @@
-# Reddit-Starter-Map
+<h1 align="center">Reddit-Starter-Map</h1>
 
-A community-respecting starter map for people who are new to Reddit.
+<p align="center">
+  A community-respecting map for finding beginner-friendly places to start on Reddit.
+</p>
+
+<p align="center">
+  <a href="https://reddflow.com/">Website</a> ·
+  <a href="https://x.com/cepistle_">Follow @cepistle_</a> ·
+  <a href="./docs/sources/new-user-friendly-subreddits.md">Starter Map</a> ·
+  <a href="./CONTRIBUTING.md">Contribute</a>
+</p>
+
+<p align="center">
+  <a href="./LICENSE"><img alt="license" src="https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat" /></a>
+  <a href="./docs/sources/new-user-friendly-subreddits.md"><img alt="starter map" src="https://img.shields.io/badge/starter_map-curated-green?style=flat" /></a>
+  <a href="https://reddflow.com/"><img alt="website" src="https://img.shields.io/badge/website-reddflow.com-orange?style=flat" /></a>
+</p>
+
+<p align="center"><b>English</b> · <a href="./README.zh-CN.md">简体中文</a></p>
+
+---
+
+## What Is This?
 
 Reddit can be difficult to enter: each community has its own rules, culture,
 filters, and expectations. This repository collects useful starting points and
@@ -10,20 +31,12 @@ check, and when to comment before posting.
 This project is for genuine participation. It is not a karma-farming guide, a
 spam playbook, or an automation toolkit.
 
-[简体中文](./README.zh-CN.md)
-
 ## Start Here
 
-The first resource in the map is the
-[r/NewToReddit new-user friendly subreddits list](https://www.reddit.com/r/NewToReddit/wiki/index/newusersubs/).
-
-It is maintained by the r/NewToReddit moderators and points newcomers toward
-communities with low or no participation restrictions. This repository
-reorganizes that public source into a more readable topic map and keeps the
-original source clearly attributed.
-
-Read our [organized version](./docs/sources/new-user-friendly-subreddits.md) for
-a topic map, new-user notes, and safer first-action guidance.
+Start with the
+[organized new-user friendly subreddit map](./docs/sources/new-user-friendly-subreddits.md).
+It groups communities by first action, review risk, topic, and language so new
+users can choose a safer place to begin.
 
 ## Principles
 
@@ -43,6 +56,7 @@ guidelines.
 ├── README.md
 ├── README.zh-CN.md
 ├── CONTRIBUTING.md
+├── LICENSE
 ├── data/
 │   ├── README.md
 │   └── community.schema.json
@@ -63,3 +77,7 @@ guidelines.
 ## Contributing
 
 Contributions are welcome. Start with [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## License
+
+Licensed under the [Apache License 2.0](./LICENSE).
